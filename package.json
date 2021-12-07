@@ -1,0 +1,23 @@
+{
+  "name": "tello-test-drone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infiniteoo/tello-test-drone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infiniteoo/tello-test-drone/issues"
+  },
+  "homepage": "https://github.com/infiniteoo/tello-test-drone#readme",
+  "dependencies": {
+    "tello-drone": "^3.0.6"
+  }
+}
